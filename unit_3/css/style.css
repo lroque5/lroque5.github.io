@@ -1,0 +1,18 @@
+h1 {
+		font-weight: 100;
+		font-size: 50px;
+	}
+body {
+		text-align: center;
+		padding-top: 50px;
+		padding-bottom: 50px;
+		color: #CC6600;
+		background-image: "images/choco_liquid.jpg";
+		background-repeat: no-repeat;
+		background-color: #281a0b;
+		background-size: cover;
+
+		font-family: Verdana, sans-serif;
+		font-weight: 100;
+		letter-spacing: 1px;
+}
