@@ -1,13 +1,22 @@
 
 body {
 		text-align: center;		
-		background: transparent url("../images/choco_liquid.jpg") no-repeat center center;
+		background-color: white; 
 		background-size: cover;	
 		min-height: 100vh;
 		font-family: 'Open Sans', sans-serif;
 }
-
+.wrapper {background-color: #FFE2B8;
+}
+header {
+		background-color: #FFED74;
+		border: 1px black solid;
+		padding: 20px;
+}
+section {background-color: #FFE2B8;
+}
 nav, a {
+		background-color: #E8C66A;
 		font-size: 12px;
 		font-family: "Open Sans", sans-serif;
 		font-weight: normal;
@@ -20,7 +29,9 @@ nav, a {
 		margin-top: 35px;
 		margin-bottom: 150px;
 }
-
+article {
+		background-color: #E89C6C;
+}
 h1 {
 		font-size: 78px;
 		font-family: 'Abril Fatface', cursive;
@@ -43,8 +54,25 @@ h2 {
 		padding: 35px;
 }
 
+h3 { 	
+		font-size: 15px; 
+		font-family: "Open Sans", sans-serif;
+		font-weight: 300;
+		color: #853718;
+		letter-spacing: 1px;
+		line-height: 225%;
+		margin: 0px;
+		padding: 0px;
+}
+p {
+		font-size: 13px;
+		font-family: "Open Sans", sans-serif;
+		font-weight: 100;
+		color: grey;
+}		
 
 footer {
+		background-color: #FF957E;
 		font-size: 14px;
 		color: #66B2B1;
 		letter-spacing:2px;
