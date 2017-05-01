@@ -33,7 +33,7 @@ article {
 		background-color: #E89C6C;
 }
 h1 {
-		font-size: 78px;
+		font-size: 80px;
 		font-family: 'Abril Fatface', cursive;
 		font-weight: normal;
 		letter-spacing: 2.25px;
@@ -43,7 +43,7 @@ h1 {
 }
 
 h2 { 	
-		font-size: 15px; 
+		font-size: 16px; 
 		font-family: "Open Sans", sans-serif;
 		font-weight: 300;
 		color: #853718;
@@ -51,11 +51,12 @@ h2 {
 		letter-spacing: 7.5px;
 		line-height: 225%;
 		margin: 55px;
-		padding-bottom: 90px;
+		padding-top: 35px;
+		padding-bottom: 75px;
 }
 
 h3 { 	
-		font-size: 22px; 
+		font-size: 23px; 
 		font-family: "Open Sans", sans-serif;
 		font-weight: 300;
 		color: #853718;
@@ -67,7 +68,7 @@ h3 {
 
 }
 p {
-		font-size: 13px;
+		font-size: 14px;
 		font-family: "Open Sans", sans-serif;
 		font-weight: 100;
 		color: black;
